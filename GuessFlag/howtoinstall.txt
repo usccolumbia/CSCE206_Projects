@@ -1,0 +1,9 @@
+You need to install pyaudio package
+and speech_recognition package
+
+on mac/linux, u can install it as
+pip install pyaudio 
+pip install speech_recognition
+
+on windows. u need to download the package and install it manually
+
