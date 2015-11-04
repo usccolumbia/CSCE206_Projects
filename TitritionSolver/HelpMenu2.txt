@@ -1,0 +1,62 @@
+Help Menu: 
+
+Create a Reaction with Given Compounds: Ax + By -> Bx + Ay 
+1. Input a strong acid compound and a strong base compound into cells. 
+2. Click the light green "Generate" button to generate your chemical reaction equation. 
+3. Some common strong acids to use are: HCl, HBr, HI, HClO4, HNO3, H2SO4.
+4. Some common strong bases to use are: LiOH, NaOH, KOH, RbOH, CsOH, Mg(OH)2, Ca(OH)2, Sr(OH)2, Ba(OH)2
+
+
+To Balance the Chemical Reaction Equation: 2Ax + 2By -> 2Bx + 2Ay
+1. Choose two compounds as your reactants. 
+2. Create a reaction with the reactants with an error forming the correct products. 
+3. DO NOT BALANCE THE EQUATION YOURSELF. (Keep the equation in its simplest form)
+4. Click the gray "Balance" button to balance the equation.
+
+
+Find the Concentration or Volume of Compounds in the Titration: M1V1 = M2V2
+1. Input known information into cells, leaving one cell blank to calculate for the concentration or volume. 
+2. Click the green "Calculate" button to calculate the unknown concentration or volume in the reaction. 
+3. Entering too large or too small of numbers will result in an error message - you cannot calculate values with those inputs.
+4. Entering too many parameters will result in an error message - you can not calculate the necessary volume or concentration if you already have all the values. 
+5. Click the red "Clear" button to clear all entries. 
+
+
+Determine Which Compound is the Limiting Reactant:
+1. Look at the concentration calculated or inputted for the strong acid compound and strong base compound. 
+2. Determine which concentration is smaller - this is your limiting reactant for the titration.
+3. The limiting reactant will only allow your reaction to continue until this value is used up. 
+
+
+Calculate the pH and pOH of the Titration: pH = -log[H+]; pH + pOH = 14
+1. Be sure the concentration and volume cells are filled within the strong acid section. (You cannot find pH without these values!)
+2. Click the light blue "Find" button under the Acidity/Basicity section to calculate pH. 
+3. The pOH is also calculated here. This is simply found by: pOH = 14 - pH
+4. If the concentration and volume of acid and the concentration and volume of base are the same, you will have a neutral pH of 7.0.
+5. If the pH is 7.0, the solution is neutral.
+6. If the solution is below 7.0, the solution is acidic.
+7. If the solution is above 7.0, the solution is basic. 
+8. Click the red "Clear" button to clear all entries. 
+
+
+To Create a Table of Volume of the Base and pH: 
+1. This may be done in two ways: 
+	a. Input values for the volume of strong base in the reaction into the "Vol" column. Input values for pH of the titration into the "pH" column.
+	b. Take the values input/calculated for the volume of strong base and the value calculated for pH and put them into the table by clicking the yellow "Add" button. 
+2. This table will simply organize your values for the volume of strong base and the pH so it can be later put into a titration curve. 
+3. The table is limited to the number of spaces given - do NOT enter more values than this or you will receive an error message. 
+4. Click the red "Clear" button to clear all entries.
+
+
+To Create a Titration Curve: 
+1. Be sure that the table for the volume of the strong base and pH is complete, or filled with numerous parameters. 
+2. Click the purple "Graph" button.
+3. This will give you the titration curve for the titration. The point where the slope is most linear is the equivalence point (where the pH is 7.0 and there is equal strong acid and strong base in the reaction). 
+4. The curve shows the progression of volume of base added versus the pH of the solution during the titration.
+
+
+**IF AT ANY POINT YOU WOULD LIKE TO QUIT THE PROGRAM, SIMPLY PRESS THE DARK RED "QUIT" BUTTON IN THE LOWER RIGHT HAND CORNER**
+
+========================================================================================================================================================
+For information and reference on how to solve a strong acid/strong base titration: 
+http://chemwiki.ucdavis.edu/Analytical_Chemistry/Quantitative_Analysis/Titration/Titration_Of_A_Strong_Acid_With_A_Strong_Base
